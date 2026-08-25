@@ -1,2 +1,2 @@
 # New Project 
-This is a New demo project. 
+This project was created form local system. 
